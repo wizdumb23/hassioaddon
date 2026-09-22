@@ -20,8 +20,8 @@ Bambulab-ams-spoolman (syncs a Bambu AMS with Spoolman).
   `Bambulab-ams-spoolman/`) with its own config/Dockerfile.
 - No CI workflows are configured in this repo (`.github/workflows/` does not
   exist) — changes are validated manually.
-- `repository.yaml` still lists the pre-fork maintainer/URL — known, not yet
-  updated; leave it unless asked.
+- `repository.yaml` still lists the maintainer's previous GitHub handle/URL
+  (`dmuth23`); known, leave it unless asked.
 
 ## Guardrails
 
